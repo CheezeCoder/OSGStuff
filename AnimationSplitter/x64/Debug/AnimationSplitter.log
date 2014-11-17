@@ -1,0 +1,12 @@
+﻿  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  Source.cpp
+  OsgXml.cpp
+  FindOsgAnimationByName.cpp
+  AnimationUtils.cpp
+  AnimationSplitter.cpp
+  AnimationManagerFinder.cpp
+  Generating Code...
+  AnimationSplitter.vcxproj -> C:\Users\Erghis\Documents\AnimationSplitter\x64\Debug\AnimationSplitter.exe
